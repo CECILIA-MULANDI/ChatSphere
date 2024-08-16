@@ -1,0 +1,11 @@
+/home/cecilia/chatsphere/target/debug/deps/libtinyvec-1e7b26af7f8e1df0.rmeta: /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/lib.rs /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/array.rs /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/array/generated_impl.rs /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/arrayvec.rs /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/arrayvec_drain.rs /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/slicevec.rs /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/tinyvec.rs
+
+/home/cecilia/chatsphere/target/debug/deps/tinyvec-1e7b26af7f8e1df0.d: /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/lib.rs /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/array.rs /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/array/generated_impl.rs /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/arrayvec.rs /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/arrayvec_drain.rs /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/slicevec.rs /home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/tinyvec.rs
+
+/home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/lib.rs:
+/home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/array.rs:
+/home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/array/generated_impl.rs:
+/home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/arrayvec.rs:
+/home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/arrayvec_drain.rs:
+/home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/slicevec.rs:
+/home/cecilia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinyvec-1.8.0/src/tinyvec.rs:

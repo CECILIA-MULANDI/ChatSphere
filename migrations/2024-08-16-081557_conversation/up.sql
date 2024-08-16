@@ -1,0 +1,8 @@
+-- Your SQL goes here
+CREATE TABLE conversation(
+    id SERIAL PRIMARY KEY,
+    user1_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+    user2_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+ 
+)
